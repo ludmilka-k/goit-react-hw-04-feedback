@@ -1,0 +1,27 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.goodStat {
+  color: green;
+}
+
+.neutralStat {
+  color: grey;
+}
+
+.badStat {
+  color: red;
+}
+
+.totalStat {
+  color: blue;
+}
+
+.percentageStat {
+  color: blueviolet;
+}
