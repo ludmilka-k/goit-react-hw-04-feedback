@@ -1,12 +1,23 @@
 .container {
-  margin: 0 auto;
-  padding-top: 40px;
-  text-align: center;
+  margin-top: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 320px;
+  padding: 8px;
+  background-color: #c6e3f6;
+  border-radius: 8px;
+  box-shadow: 0 3px 1px rgba(0, 0, 0, 0.1), 0 2px 1px rgba(0, 0, 0, 0.08), 0 2px 2px rgba(0, 0, 0, 0.12);
 }
 
 .title {
-
+  margin: 0 auto 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  color: #212121;
+  background-color: white;
   font-size: 24px;
-  margin-bottom: 15px;
+  font-weight: 700;
+  border-radius: 8px;
 
 }
