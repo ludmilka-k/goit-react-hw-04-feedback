@@ -23,6 +23,9 @@ export const App = () => {
       case 'bad':
         setBad(bad + 1);
         break;
+      default:
+        console.log('Error on feedback');
+        break;
     }
   };
 
